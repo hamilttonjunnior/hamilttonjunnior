@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="formulario.css" type="text/css" media="screen">
+    <title>Formulario de Estudo</title>
+</head>
+<body>
+    <div>
+        <h1 id="titulo">Cadastro de Devs</h1>
+        <p id="subtitulo">Complete os Formulario</p>
+        <br>
+    </div>
+    <div>
+        
+
+    <form>
+        <fieldset class="grupo">
+            <div class="campo">
+                <label for="nome">Nome</label>
+                <input type="text" name="text" id="name" required>
+            </div>
+            <div class="campo">
+                <label for="sobrenome">Sobrenome</label>
+                <input type="text" name="sobrenome" id="sobrenome" required>
+            </div>
+
+        </fieldset>
+
+        <div class="campo">
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email" required>
+        </div>
+
+        <div id="campo">
+            <label>O que você desenvolve?</label>
+            <label>
+                <input type="radio" name="devweb" id="frontend" checked>Front-End
+            </label>
+            <label>
+                <input type="radio" name="devweb" id="backend">Back-end
+            </label>
+            <label>
+                <input type="radio" name="devweb" id="fullstack">Full-Stack
+
+          </label>
+          
+          <div class="campo"><br>
+            <label for="capacidade"><b>Capacidade</b></label><br>
+            <select id="capacidade">
+                <option selected disabled value="">------</option>
+                <option>Junior</option>
+                <option>Senior</option>
+                <option>Pleno</option>
+            </select>
+          </div>
+
+          <fieldset class="grupo">
+            <div class="check">
+                <label>Qual tecnologia você conhece?</label><br><br>
+                <input type="checkbox" name="tech01" id="tech01" value="HTML">
+                <label for="tech01">HTML</label>
+                <input type="checkbox" name="tech02" id="tech02" value="CSS">
+                <label for="tech02">CSS</label>
+                <input type="checkbox" name="tech03" id="tech03" value="JAVA">
+                <label for="techo03">JAVA</label>
+
+            </div>
+
+          </fieldset>
+
+          <br>
+          <div class="campo">
+            <label>Nos conte sobre sua experiencia</label>
+            <textarea id="exp" name="exp" rows="6" style="width: 30em" ></textarea>
+          </div>
+          <button type="submit" class="botao">Enviar</button>
+
+        </div>
+
+    </form>            
+    
+</body>
+</html>
