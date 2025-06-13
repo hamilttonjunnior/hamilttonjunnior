@@ -1,34 +1,34 @@
-<h1 align="center">Olá! Eu sou o Hamilton Junior 👋</h1>
+<h1 align="center">Hello! I’m Hamilton Junior 👋</h1>
 
 <p align="center">
-  💻 Desenvolvedor Front-End em formação | 🎬 Produtor de Vídeo Freelancer | ⚙️ Background Técnico Industrial
+  💻 Front-End Developer in training | 🎬 Freelance Video Producer | ⚙️ Industrial Technical Background
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About Me
 
-Sou um profissional multidisciplinar com experiência nas áreas de tecnologia, audiovisual e indústria. 
+I am a multidisciplinary professional with experience in technology, audiovisual, and industry.
 
-Atualmente, estou focado no desenvolvimento **Front-End**, com formação contínua pela **Alura**, estudando:
+Currently, I am focused on **Front-End** development, continuously training through **Alura**, studying:
 
 - HTML
 - CSS
 - JavaScript
 - React.js
 
-Também atuo como freelancer em produção e edição de vídeos, utilizando ferramentas como:
+I also work as a freelancer in video production and editing, using tools such as:
 
 - Adobe Premiere
 - After Effects
 - Photoshop
 - DaVinci Resolve
 
-Tenho formação técnica em redes e manutenção de computadores, além de qualificação em Construção Naval, com conhecimentos aplicáveis à indústria naval.
+I have technical training in networking and computer maintenance, as well as qualifications in Naval Construction, with applicable knowledge in the shipbuilding industry.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies and Tools
 
 <div style="display: inline_block">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -45,22 +45,22 @@ Tenho formação técnica em redes e manutenção de computadores, além de qual
 
 ---
 
-### 📚 Atualmente estudando
+### 📚 Currently Studying
 
 - React.js (Alura)
-- JavaScript Avançado (Alura)
-- Desenvolvimento Front-End Moderno
-- Boas práticas de UI/UX
+- Advanced JavaScript (Alura)
+- Modern Front-End Development
+- UI/UX Best Practices
 
 ---
 
-### 📍 Localização
+### 📍 Location
 
 - 🇵🇹 Viana do Castelo, Portugal
 
 ---
 
-### 📫 Como me encontrar:
+### 📫 How to find me:
 
 <div>
   <a href="https://www.linkedin.com/in/hamilttonjunnior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -72,11 +72,10 @@ Tenho formação técnica em redes e manutenção de computadores, além de qual
 
 ---
 
-### ⚡ Curiosidades:
+### ⚡ Fun Facts:
 
-- 🎬 Também atuo como produtor de vídeo freelancer.
-- ⚙️ Possuo formação técnica na área industrial (Construção Naval).
-- 🎯 Busco unir tecnologia, criatividade e solução de problemas em projetos digitais e industriais.
+- 🎬 I also work as a freelance video producer.
+- ⚙️ I have technical training in the industrial field (Naval Construction).
+- 🎯 I aim to combine technology, creativity, and problem-solving in digital and industrial projects.
 
 ---
-
