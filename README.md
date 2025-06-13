@@ -39,8 +39,8 @@ Tenho formação técnica em redes e manutenção de computadores, além de qual
   <img align="center" alt="Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
   <img align="center" alt="AfterEffects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="DaVinci" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/DaVinci_Resolve_17_logo.svg">
-  <img align="center" alt="AutoCAD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg">
+  <img align="center" alt="DaVinci" height="30" width="40" src="https://img.icons8.com/color/48/000000/davinci-resolve--v1.png">
+  <img align="center" alt="AutoCAD" height="30" width="40" src="https://img.icons8.com/color/48/000000/autocad.png">
 </div>
 
 ---
