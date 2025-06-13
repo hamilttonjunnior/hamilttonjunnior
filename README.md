@@ -24,7 +24,7 @@ Também atuo como freelancer em produção e edição de vídeos, utilizando fer
 - Photoshop
 - DaVinci Resolve
 
-Tenho formação técnica em redes e manutenção de computadores, além de qualificação em Construção Naval, com conhecimentos aplicáveis à indústria portuguesa.
+Tenho formação técnica em redes e manutenção de computadores, além de qualificação em Construção Naval, com conhecimentos aplicáveis à indústria naval.
 
 ---
 
